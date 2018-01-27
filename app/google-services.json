@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "444661084047",
+    "firebase_url": "https://moviesreview-3ef4e.firebaseio.com",
+    "project_id": "moviesreview-3ef4e",
+    "storage_bucket": "moviesreview-3ef4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444661084047:android:d30b46e9f52efee4",
+        "android_client_info": {
+          "package_name": "com.cristhianbonilla.moviereview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444661084047-8od5s0eeeh7cq33apeeini8pvlj2orlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9x6_F_MAgfn6y-RUE99laEk7ItWJUAHM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/popular"
+
+            android:title="popular" />
+
+        <item
+            android:id="@+id/accion"
+
+            android:title="Acción" />
+        <item
+            android:id="@+id/aventura"
+
+            android:title="Aventura" />
+        <item
+            android:id="@+id/comedia"
+
+            android:title="Comedia" />
+        <item
+            android:id="@+id/romance"
+
+            android:title="Romance" />
+        <item
+            android:id="@+id/biografia"
+
+            android:title="Biografia" />
+        <item
+            android:id="@+id/drama"
+
+            android:title="Drama" />
+        <item
+            android:id="@+id/terror"
+
+            android:title="Terror" />
+        <item
+            android:id="@+id/animadas"
+
+            android:title="Animadas" />
+        <item
+            android:id="@+id/documental"
+
+        android:title="Documental" />
+    </group>
+
+    <item android:title="Configurar">
+        <menu>
+            <item
+                android:id="@+id/salir"
+
+                android:title="Sair" />
+            <item
+                android:id="@+id/compartir"
+                android:title="Compartir" />
+        </menu>
+    </item>
+
+</menu>

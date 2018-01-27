@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Movie Review</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nombre">Nombre</string>
+    <string name="fecha">Fecha</string>
+    <string name="video_youtube">Link Trailer</string>
+    <string name="descripcion">Descripción</string>
+    <string name="choose_category">Seleccione una Categoría</string>
+    <string name="enviar">Enviar</string>
+    <string-array name="category">
+        <item>Seleccione la categoria</item>
+        <item>Acción </item>
+        <item>Aventura</item>
+        <item>Comedia</item>
+        <item>Romance</item>
+        <item>Biografía</item>
+        <item>Crimen</item>
+        <item>Documental</item>
+        <item>Instrumentales</item>
+        <item>Drama</item>
+        <item>Familiar</item>
+        <item>Fantasia</item>
+        <item>Misterio</item>
+        <item>Terror</item>
+        <item>Musical</item>
+        <item>Peliculas de Vaquers</item>
+        <item>Historia</item>
+        <item>Terror</item>
+        <item>America latina</item>
+
+
+    </string-array>
+    <string name="fiebase_error_login">Error firebase</string>
+    <string name="facebook_app_id">163946374378635</string>
+    <string name="fb_login_protocol_scheme">fb163946374378635</string>
+    <string name="calificar">Calificar</string>
+    <string name="trailer">Trailer</string>
+</resources>
